@@ -1,2 +1,2 @@
-# portfolio
-My portfolio of my projects
+# MY PORTFOLIO
+Hi, this is portfolio of mmy projects in programing/elecro engeniring
